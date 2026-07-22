@@ -1,9 +1,1 @@
-# UI
-
-Skupne komponente:
-- Button
-- Card
-- Modal
-- Form
-- Table
-- Block renderer
+Skupne UI komponente bodo dodane v naslednji fazi.

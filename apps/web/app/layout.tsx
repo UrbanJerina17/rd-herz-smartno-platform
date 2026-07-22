@@ -1,0 +1,1 @@
+import type { Metadata } from "next";import "./globals.css";export const metadata:Metadata={title:"RD Herz Šmartno",description:"Uradna spletna stran rokometnega kluba"};export default function Layout({children}:{children:React.ReactNode}){return <html lang="sl"><body>{children}</body></html>}

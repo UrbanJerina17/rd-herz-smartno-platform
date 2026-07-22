@@ -1,7 +1,1 @@
-# Supabase
-
-Tukaj bodo:
-- SQL migracije
-- politike dostopa
-- začetni podatki
-- podatkovni model za modularne predalčke
+Supabase, prijava in podatkovna baza bodo dodani v naslednji fazi.

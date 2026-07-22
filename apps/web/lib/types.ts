@@ -1,0 +1,1 @@
+export type BlockType="hero"|"match"|"news"|"results"|"player"|"text"|"sponsors";export type PageBlock={id:string;type:BlockType;title:string;subtitle:string;visible:boolean};export type SiteContent={clubName:string;slogan:string;blocks:PageBlock[]};

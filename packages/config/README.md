@@ -1,3 +1,1 @@
-# Config
-
-Skupne nastavitve za TypeScript, ESLint in Tailwind.
+Skupne konfiguracije bodo dodane v naslednji fazi.
